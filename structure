@@ -1,0 +1,18 @@
+Fawry/
+│
+├── include/                  # Header files
+│   ├── cart.h
+│   ├── expirables.h
+│   ├── perishableproduct.h
+│   ├── product.h
+│   └── shippable.h
+│
+├── src/                      # Source files
+│   ├── cart.cpp
+│   ├── perishableproduct.cpp
+│   ├── product.cpp
+│
+├── assets/                   # ( output images)
+│   └── checkout.png
+│
+├── main.cpp                  # Entry point of system 
